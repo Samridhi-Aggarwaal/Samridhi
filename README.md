@@ -2,7 +2,7 @@
 Contact Details
 
 
-- 👋 Hi, I’m @sammieaggy
+- 👋 Hi, I’m Samridhi
 - 👀 I’m interested in IT
 - 🌱 I’m currently pursuing BTech CSE from VIT, Vellore
 - 💞️ I’m looking to collaborate on projects and learn as much as possible
